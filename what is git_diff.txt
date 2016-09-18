@@ -1,0 +1,8 @@
+Every single commit we do has an commit_id and author name and date
+if we want to compare two commits we use git diff
+we can compare these two commits by following command
+git diff commit_1_id commit_2_id
+
+set of files in git is denoted as repository
+
+Also when we make a change in a code which is common to let say 3 files then after a commit they are updated in all files
