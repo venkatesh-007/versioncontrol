@@ -1,0 +1,8 @@
+git checkout commit_id
+helps to checkout toswitch to older versions of a filefrom a new version, this is much helpful if any wrong change is to be reverted
+
+
+
+Q.After checking out a commit, the state of all the files in the repository will be from the same point in time.
+Answer:
+This is always true. A commit saves a snapshot of all files in the repository at the time the commit was made, so checking out an earlier commit will result in all the files being reverted to their state at the time the commit was made. That is, the files will be in a consistent state.
