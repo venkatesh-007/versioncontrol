@@ -1,0 +1,5 @@
+*****To compare two files 
+1) Use FC on windows(FC old_name new_name)
+2) Use diff in linux 
+
+
