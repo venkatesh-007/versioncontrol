@@ -1,0 +1,2 @@
+If we edited a file but those changes are not added to staging area we can find out what chages are made using git diff (only)
+gt diff compares files in staging area and in working directory for any difference
