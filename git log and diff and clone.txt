@@ -1,0 +1,9 @@
+to view all the commits made so far 
+we use git log command
+and to view stats we use git log --stats
+also to find difference between two commits use git diff specified earlier...
+
+
+Also we can copy content of one git file from one pc to other by using git clone 
+use 
+git clone url of file in source pc
